@@ -1,0 +1,33 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "server1",
+      "address": "typicode",
+      "email":"example@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "server2",
+      "address": "typicode2",
+      "email":"example2@gmail.com"
+
+    },
+    {
+      "id": 3,
+      "name": "server3",
+      "address": "typicode3",
+      "email":"example@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
